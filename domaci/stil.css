@@ -1,0 +1,103 @@
+body {
+	margin: 10px auto;
+	width: 1300px;
+}
+
+header {
+	text-align: center;
+	padding: 10px;
+	background-color: #00514C;
+}
+
+ul {
+	list-style-type: none;
+    margin: 0;
+    font-family: Dosis,Calibri, sans serif;
+
+}
+
+li {
+	display: inline;
+	 padding-left: 10px;
+	 font-weight: lighter;
+
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+	color: #ff4c4c;
+}
+
+#logo {
+	padding-bottom: 10px;
+	text-align: center;
+	padding-left: 30px;
+}
+
+h1 {
+	font-family: Dosis, Calibri, sans serif;
+	color: white;
+	padding-top: 180px;
+	padding-bottom: 80px;
+	font-size: 50px;
+	text-align: center;;
+}
+
+#one {
+	background-image: url(ruza.jpg);
+	margin-top: -45px;
+	height: 480px;
+}
+
+h2 {
+	color: #d4dbb8;
+	font-family: Dosis, Calibri, sans serif;
+	font-size: 21px;
+	text-align: center;
+	margin-top: -110px;
+    text-decoration: overline;
+}
+
+.container {
+	border: 3px solid #00514C;
+	width: 200px;
+	margin:80px auto;
+	padding: 30px;
+	float: left;
+	margin-left: 130px;
+	font-family: Dosis, Calibri, sans serif;
+}
+
+.circle {
+	height: 50px;
+	width: 50px;
+	background-color: #00514C;
+	border-radius: 50%;
+	position: absolute;
+	margin-top: -60px;
+	margin-left: 70px;
+}
+
+#two {
+	text-align: all;
+}
+
+h3 {
+	font-family: Dosis, Calibri, sans serif;
+	color: grey;
+}
+
+#zadatak {
+	clear: both;
+	background-color: #00514C;
+	height: 30px;
+	color: white;
+	text-align: right;
+	font-family: Dosis, Calibri, sans serif;
+	padding-top: 10px;
+	padding-right: 110px;
+}
